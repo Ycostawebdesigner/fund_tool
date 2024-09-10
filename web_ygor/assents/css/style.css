@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+/*mais um comando de codigo, 
+somente para CSS.*/ 
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: #3d7ac5;  */
+    
+}
+
+
+body{
+     margin:0;
+    padding:0;
+    box-sizing: boder-box;
+    background:linear-gradient (#6073c5, #002461);
+    /* background-image: linear-gradient; */
+}
+header{
+margin:0;
+padding:0;
+box-sizing:border-box;
+/* background-color:*/
+}
+
+nav{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
